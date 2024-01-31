@@ -1,0 +1,6 @@
+1.- Creo el proyecto: npx create-react-app axios
+2.- Modifico el fichero App.js
+
+4.- Obtenemos por consola el resultado de los datos obtenidos de los cambios de useEffect
+
+5.- npm start
